@@ -1,0 +1,5 @@
+outs:
+- md5: 1120055d5045c2db180a62387a60db21
+  size: 281449733
+  hash: md5
+  path: spot_full.csv

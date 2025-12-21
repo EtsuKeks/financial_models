@@ -1,0 +1,5 @@
+outs:
+- md5: 30e8d4c3161953223687cc923471d538
+  size: 3734378
+  hash: md5
+  path: bs_initial_accuracy.csv

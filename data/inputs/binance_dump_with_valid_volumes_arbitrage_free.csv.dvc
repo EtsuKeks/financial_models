@@ -1,0 +1,5 @@
+outs:
+- md5: 245efaea89e675a575b87308b5d58540
+  size: 47309271
+  hash: md5
+  path: binance_dump_with_valid_volumes_arbitrage_free.csv
