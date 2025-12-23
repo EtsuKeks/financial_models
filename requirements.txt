@@ -1,6 +1,8 @@
-numpy
-pandas
-tqdm
-pydantic
-scikit-learn
+numpy==2.4.0
+pandas==2.3.3
+tqdm==4.67.1
+pydantic==2.12.5
+scikit-learn==1.8.0
 dvc[gdrive]
+torch==2.2.2
+pydrive2==1.21.3
